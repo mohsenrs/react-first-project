@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+li, ul {
+  list-style: none;
+  padding: 0;
+}
+
 html {
   font-family: 'Noto Sans JP', sans-serif;
 }
@@ -12,4 +17,3 @@ body {
   margin: 0;
   background-color: #3f3f3f;
 }
-

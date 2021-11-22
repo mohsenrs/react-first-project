@@ -16,13 +16,13 @@
   align-items: flex-end;
   flex-flow: column-reverse;
   justify-content: flex-start;
-  /* flex: 1; */
+  flex: 1;
 }
 
 .expense-item h2 {
   color: #3a3a3a;
   font-size: 1rem;
-  /* flex: 1; */
+  flex: 1;
   margin: 0;
   color: white;
 }
@@ -42,7 +42,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    /* flex: 1; */
+    flex: 1;
   }
 
   .expense-item__description h2 {
